@@ -38,7 +38,7 @@ def user_interaction():
         while answer.lower() not in ["y", "n"]:
             answer = input("Введите либо 'y' либо 'n' ")
 
-    db_name_user = input("Задайте имя для базы данных или оставьте по умолчанию(employers) ")
+    db_name_user = input("Задайте имя для базы данных или оставьте по умолчанию (employers) ")
 
     if db_name_user:
         db_name = db_name_user

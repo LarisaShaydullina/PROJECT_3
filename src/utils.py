@@ -79,5 +79,5 @@ test_list = [
     },
 ]
 
-# if __name__ == "__main__":
-#     print(get_data_employer_by_id(test_list, "1740"))
+#if __name__ == "__main__":
+#    print(get_data_employer_by_id(test_list, "1740"))
